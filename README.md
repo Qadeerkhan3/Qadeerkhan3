@@ -47,9 +47,12 @@ I'm Qadeer Ullah, a MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack + NextJS de
 
 ### Working Area
 
-# 1. Web Development:
+#### 1. Web Development:
 Building responsive and scalable web applications using HTML, CSS, JavaScript, and frameworks like React, Angular, and Vue.
-2. 
+
+#### 2. Mobile App Development:
+Developing mobile apps for Android and iOS using React Native, Flutter, and native technologies.
+
 3. 
 4. 
 5. 
